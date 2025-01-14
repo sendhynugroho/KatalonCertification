@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC002 - Search Airbnb by Location</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7630fb0a-8a1c-475e-8627-8b7447dd3013</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>32fec8a0-44b2-426d-a0f4-0ddff100afcd</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'indonesia'</defaultValue>
+      <description></description>
+      <id>32fec8a0-44b2-426d-a0f4-0ddff100afcd</id>
+      <masked>false</masked>
+      <name>location</name>
+   </variable>
+</TestCaseEntity>

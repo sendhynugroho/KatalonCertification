@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC004 - Search Airbnb by Guest</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>61aa6c8e-695c-47c0-bc4c-9b9425a2b4f1</testCaseGuid>
+</TestCaseEntity>
