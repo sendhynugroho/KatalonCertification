@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC011 - Mulai Berjualan Tokopedia</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a3b03e09-67fe-4ed1-bc4b-db4356730fe8</testCaseGuid>
+</TestCaseEntity>
