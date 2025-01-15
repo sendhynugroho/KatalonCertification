@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Fashion Wanita</name>
+   <tag></tag>
+   <elementGuidId>706f915e-0d1f-4ff1-a877-fc1a8263fa3a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='header-main-wrapper']/div[2]/div/div/div[2]/div/div[2]/div/a[9]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;showHide\#9&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a872126a-42c0-4024-b075-cdca22d8b493</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/p/fashion-wanita</value>
+      <webElementGuid>0f5462e0-dac9-4b3a-a454-380acc8b661b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-19zjbhc</value>
+      <webElementGuid>6c80f999-8eb3-4f71-a1aa-bec3aeaeedbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>showHide#9</value>
+      <webElementGuid>5aa4210d-a259-428d-ac84-d4e767b8d390</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Fashion Wanita</value>
+      <webElementGuid>8695e5d1-f9a9-4dae-a29f-8ec3ffd7abc3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header-main-wrapper&quot;)/div[@class=&quot;css-12jp264 e90swyx2&quot;]/div[@class=&quot;css-c4s9dq e1429ojz0&quot;]/div[@class=&quot;css-1551isn e1429ojz1&quot;]/div[@class=&quot;css-32o8lv e1429ojz2&quot;]/div[@class=&quot;css-11womkr-unf-tab e1429ojz3&quot;]/div[@class=&quot;css-dj3o3l&quot;]/div[@class=&quot;css-103qbjm e1429ojz4&quot;]/a[@class=&quot;css-19zjbhc&quot;]</value>
+      <webElementGuid>aa600f51-a883-4e10-8ee9-4ff357f6e103</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header-main-wrapper']/div[2]/div/div/div[2]/div/div[2]/div/a[9]</value>
+      <webElementGuid>21a40cd6-67d6-4b7d-8632-c5841264f977</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Fashion Wanita')]</value>
+      <webElementGuid>0d7eb5c6-9140-4bd4-b915-8391ca6c6f25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fashion Pria'])[1]/following::a[1]</value>
+      <webElementGuid>fe7d58c9-db8f-4405-8886-a3bfec478e23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fashion Muslim'])[1]/following::a[2]</value>
+      <webElementGuid>7a9b7c35-89d6-433e-95fa-7a4befb00500</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Film &amp; Musik'])[1]/preceding::a[1]</value>
+      <webElementGuid>0c034329-4d9c-4d49-af9f-03a4db006223</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gaming'])[1]/preceding::a[2]</value>
+      <webElementGuid>53653c19-9a88-4761-b920-550b9e8bfd59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Fashion Wanita']/parent::*</value>
+      <webElementGuid>6b4e60ec-3dbf-407d-a09a-91e3b269ac62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/p/fashion-wanita')]</value>
+      <webElementGuid>6fc5d62f-3555-47fa-89a0-68c182c09043</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[9]</value>
+      <webElementGuid>1f869cd4-14b4-4c2f-9114-68c6ad1d6b0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/p/fashion-wanita' and (text() = 'Fashion Wanita' or . = 'Fashion Wanita')]</value>
+      <webElementGuid>0257a3a8-e4c3-4c24-aea7-db967da98839</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

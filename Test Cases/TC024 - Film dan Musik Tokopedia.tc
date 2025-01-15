@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC024 - Film dan Musik Tokopedia</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6c571616-ad8f-459a-8535-70e2534a52c2</testCaseGuid>
+</TestCaseEntity>

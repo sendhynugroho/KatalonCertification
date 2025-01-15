@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Film  Musik</name>
+   <tag></tag>
+   <elementGuidId>c4ecd63e-6cf8-49e4-96b6-8c2c60418f42</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='header-main-wrapper']/div[2]/div/div/div[2]/div/div[2]/div/a[10]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;showHide\#10&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>164b8517-a033-4ecf-825a-2ae50f7a5caf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/p/film-musik</value>
+      <webElementGuid>71d95c8a-dcad-4bac-a552-2c8e53d6bb80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-19zjbhc</value>
+      <webElementGuid>eb41c21d-04e3-4743-9424-24c0418ccc2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>showHide#10</value>
+      <webElementGuid>25e79512-39b4-478c-95b2-07db2c91340d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Film &amp; Musik</value>
+      <webElementGuid>c77304e9-5bd7-4c38-acc0-fd2c68a3014c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header-main-wrapper&quot;)/div[@class=&quot;css-12jp264 e90swyx2&quot;]/div[@class=&quot;css-c4s9dq e1429ojz0&quot;]/div[@class=&quot;css-1551isn e1429ojz1&quot;]/div[@class=&quot;css-32o8lv e1429ojz2&quot;]/div[@class=&quot;css-11womkr-unf-tab e1429ojz3&quot;]/div[@class=&quot;css-dj3o3l&quot;]/div[@class=&quot;css-103qbjm e1429ojz4&quot;]/a[@class=&quot;css-19zjbhc&quot;]</value>
+      <webElementGuid>37557af3-5daa-46f0-a6b8-db4dd4bd04cf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header-main-wrapper']/div[2]/div/div/div[2]/div/div[2]/div/a[10]</value>
+      <webElementGuid>6a4755d8-4d16-4c58-8b3f-65a0b33ec332</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Film &amp; Musik')]</value>
+      <webElementGuid>dfbf1582-c4fa-48ae-b24a-0acac2c19e3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fashion Wanita'])[1]/following::a[1]</value>
+      <webElementGuid>be0d6841-548c-4531-8c56-c8e975d18299</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fashion Pria'])[1]/following::a[2]</value>
+      <webElementGuid>f486723f-8d6d-4bee-916a-b0cec7583e3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gaming'])[1]/preceding::a[1]</value>
+      <webElementGuid>e6fc3d4a-b65a-41a5-ad8d-0ef900a6c318</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Handphone &amp; Tablet'])[1]/preceding::a[2]</value>
+      <webElementGuid>51bcb72b-cdea-4d18-9b40-046db3a1f261</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Film &amp; Musik']/parent::*</value>
+      <webElementGuid>43501bfe-8bf5-48a1-8bf6-22990d02eb38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/p/film-musik')]</value>
+      <webElementGuid>fcc85666-b01c-4a2f-8a38-e3b3dd04c4fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[10]</value>
+      <webElementGuid>c639c39e-3eb5-4b50-8424-ec53bf3b2321</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/p/film-musik' and (text() = 'Film &amp; Musik' or . = 'Film &amp; Musik')]</value>
+      <webElementGuid>0e7607fc-0d51-4855-b127-78a53417b676</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Fashion Anak  Bayi</name>
+   <tag></tag>
+   <elementGuidId>e031cbc3-5f6f-4d73-a293-1793f9164c6d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='header-main-wrapper']/div[2]/div/div/div[2]/div/div[2]/div/a[6]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;showHide\#6&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8e413d04-e8ac-476e-84f1-cd4de7775028</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/p/fashion-anak-bayi</value>
+      <webElementGuid>cded06b4-04a4-4648-822a-35bbfa319262</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-19zjbhc</value>
+      <webElementGuid>8b76b693-9571-422d-ac1d-5f78d7bcc274</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>showHide#6</value>
+      <webElementGuid>f41d66b7-7cd7-41c0-8991-38155f80f8bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Fashion Anak &amp; Bayi</value>
+      <webElementGuid>5cd14cee-9c4a-4ac4-9387-723f315b93a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header-main-wrapper&quot;)/div[@class=&quot;css-12jp264 e90swyx2&quot;]/div[@class=&quot;css-c4s9dq e1429ojz0&quot;]/div[@class=&quot;css-1551isn e1429ojz1&quot;]/div[@class=&quot;css-32o8lv e1429ojz2&quot;]/div[@class=&quot;css-11womkr-unf-tab e1429ojz3&quot;]/div[@class=&quot;css-dj3o3l&quot;]/div[@class=&quot;css-103qbjm e1429ojz4&quot;]/a[@class=&quot;css-19zjbhc&quot;]</value>
+      <webElementGuid>738e716c-aa09-4a77-a9a1-b93fa702b55b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='header-main-wrapper']/div[2]/div/div/div[2]/div/div[2]/div/a[6]</value>
+      <webElementGuid>6b72c670-c1b2-4484-b90c-7e5748e18022</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Fashion Anak &amp; Bayi')]</value>
+      <webElementGuid>6ff2b8b8-1ac4-41fb-82b9-1b1377e1ff06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elektronik'])[1]/following::a[1]</value>
+      <webElementGuid>2021eb0f-ca00-4c67-a9fe-071ab9da1ed9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dapur'])[1]/following::a[2]</value>
+      <webElementGuid>c441c50d-f902-4bbd-a821-29998cb83d21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fashion Muslim'])[1]/preceding::a[1]</value>
+      <webElementGuid>5e327b16-5306-4f0f-b962-16a6cb341928</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fashion Pria'])[1]/preceding::a[2]</value>
+      <webElementGuid>d1c43b5a-a261-4047-8776-6d97711a9e55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Fashion Anak &amp; Bayi']/parent::*</value>
+      <webElementGuid>9ff58a26-5937-4156-8c20-974f4f821571</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/p/fashion-anak-bayi')]</value>
+      <webElementGuid>9d3ccc94-1fb0-4f9a-9dfb-6c67c84e993a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[6]</value>
+      <webElementGuid>6f894df8-2b59-4e86-81bc-e8ae899ce43b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/p/fashion-anak-bayi' and (text() = 'Fashion Anak &amp; Bayi' or . = 'Fashion Anak &amp; Bayi')]</value>
+      <webElementGuid>58b8f323-45d6-4289-a8f8-5d90ba5799e8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>8a2512a2-46aa-4bb5-86de-8ba9e56285f7</webElementGuid>
+      <webElementGuid>b941ab2b-d82c-4392-b853-e30774c2ff81</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>css-xml5xq</value>
-      <webElementGuid>6d128bba-f5f4-4456-bade-b31f9cec97e2</webElementGuid>
+      <webElementGuid>f7157ae0-0a75-4754-b033-ff598e9d5bc7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>data-testid</name>
       <type>Main</type>
       <value>headerText</value>
-      <webElementGuid>6dd6c0c4-467c-4db1-9c22-f26792583712</webElementGuid>
+      <webElementGuid>9e0fc4e1-e96b-472d-b4a4-289fb8e5404a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Kategori</value>
-      <webElementGuid>f5c1aa7b-154f-445c-b4cc-629366ea435a</webElementGuid>
+      <webElementGuid>f32336ef-348b-45d8-b90a-5a3213f0a9ba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;header-main-wrapper&quot;)/div[@class=&quot;css-12jp264 e90swyx2&quot;]/div[@class=&quot;css-c4s9dq e1429ojz0&quot;]/div[@class=&quot;css-1551isn e1429ojz1&quot;]/div[@class=&quot;css-xml5xq&quot;]</value>
-      <webElementGuid>54521aa1-cb94-434b-a6e7-dcfdaca96303</webElementGuid>
+      <webElementGuid>a120c87d-db05-4c82-b3d8-26fdc5d23eb6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='header-main-wrapper']/div[2]/div/div/div</value>
-      <webElementGuid>a43a4966-f20e-4eab-aeb5-dd88cd913ac3</webElementGuid>
+      <webElementGuid>f94f279d-5216-4d90-85f1-53d6740d876a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tokopedia Care'])[1]/following::div[4]</value>
-      <webElementGuid>56f2f4a8-1617-4274-a709-3f5d420d1aaa</webElementGuid>
+      <webElementGuid>b05ea58e-042b-41a2-854d-3bb4570285ba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Promo'])[1]/following::div[4]</value>
-      <webElementGuid>b90715a9-fca2-40f3-960c-34baa7b0bf82</webElementGuid>
+      <webElementGuid>b3410112-5931-46b1-a5e9-edf16ce7c938</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Belanja'])[1]/preceding::div[1]</value>
-      <webElementGuid>a392477e-fdc3-4ca3-9e02-9f82122daff9</webElementGuid>
+      <webElementGuid>270575ab-b3e7-4863-851e-97d6fdbd8289</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Featured'])[1]/preceding::div[3]</value>
-      <webElementGuid>0e65e378-af43-4577-94c6-350e03c5c6ca</webElementGuid>
+      <webElementGuid>d54d3cef-b3f7-4316-bd75-6a6518f51792</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Kategori']/parent::*</value>
-      <webElementGuid>10a7f4d1-c97e-43a4-b01f-79213278392a</webElementGuid>
+      <webElementGuid>a7f124c9-3c6d-4a1b-8009-696ba7a32390</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div</value>
-      <webElementGuid>15d70360-0820-482b-9e2f-e0e1d7333abc</webElementGuid>
+      <webElementGuid>49d773a0-75bd-4652-8156-1ead11d95850</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,6 +125,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Kategori' or . = 'Kategori')]</value>
-      <webElementGuid>b6bf2b01-cef0-4943-9aa0-b21a2c76373d</webElementGuid>
+      <webElementGuid>9b4b4a17-0650-4ff0-82c9-23be4013289b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
